@@ -1,0 +1,2 @@
+rootProject.name='fprAppSeman8'
+include ':app'
